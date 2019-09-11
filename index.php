@@ -27,7 +27,7 @@
 		th, td {border: #f1c232; padding: 3px;}
 		tr.head th, tr.head td {background-color: # #f1c232; border-bottom: 4px double black;}
 		</style>
-		
+
 		<link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
 		<link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
 		<link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.png">
@@ -54,7 +54,7 @@
 		  window.dataLayer = window.dataLayer || [];
 		  function gtag(){dataLayer.push(arguments);}
 		  gtag('js', new Date());
-		
+
 		  gtag('config', 'UA-147381749-1');
 		</script>
 	</head>
@@ -121,7 +121,7 @@
 					</footer>
 				</div>
 			</article>
-			
+
 		<!-- search -->
 			<article id="search" class="wrapper style2">
 				<div class="container">
@@ -145,19 +145,6 @@
 					</header>
 					<div class="row aln-center">
 						<iframe src="https://www.google.com/maps/d/embed?mid=1AG_1A0f8DvvfaHTLiPsU3qzZfzaJqc20&shorturl=1&ll=22.364835236068927%2C114.09591165000006&z=11" width="100%" height="600"></iframe>
-						<!--map-->
-						<!--<div id="map"></div>
-						<script type="text/javascript" src="scripts/map.js"></script>
-						<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.0.2/papaparse.min.js" integrity="sha256-SU1Ep4Z1qETBgIsTRa5WlmPq9oHzkzR83Fia3jeXHp4=" crossorigin="anonymous"></script>
-						<!--<script type="text/javascript" src="scripts/index.js"></script>
-						<script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
-						</script>-->
-						<!--<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCj7qdnaXb6l1WXnkLnphUPpX9-FqeW55E&callback=initMap">	
-						</script>
-							<!--AIzaSyChEMn4cC74ENoYa870PqThqwyUHzH56bs-->
-							<!--reimagine: AIzaSyCuNdeElO1R_URlH3e3AD2umebdoukISdA -->
-						<!--map-->
-						
 					</div>
 				</div>
 			</article>
@@ -204,7 +191,7 @@
 						<p> </p>
 						📌報料前請先查閱我們的網站，避免重覆報料，謝謝🙏。
 						<p> </p>
-						
+
 					</header>
 					<div class="row">
 						<div class="col-12">
